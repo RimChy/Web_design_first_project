@@ -1,0 +1,42 @@
+@media screen and  (max-width:767px){
+	.news-letter img {
+		margin-top:29px;
+	}
+	
+	.gallery .fcol1{
+		margin-bottom:20px;
+	}
+	.gallery .fcol2{
+		margin-bottom:20px;
+	}
+	.gallery .fcol4{
+		margin-bottom:20px;
+	}
+	.gallery .fcol5{
+		margin-bottom:20px;
+	}
+	.what-do .laptop{
+		margin-top:50px;
+	}
+	.payment .s1{
+		margin-bottom:20px;
+	}
+	.payment .s2{
+		margin-bottom:20px;
+	}
+	.blog .b1{
+		margin-bottom:20px;
+	}
+	.blog .b2{
+		margin-bottom:20px;
+	}
+	.contact .contact-right{
+        margin-top:20px;
+	}		
+		
+}
+@media screen and (max-width:575px){
+	.signup .inp{
+		margin-bottom:10px;
+	}
+}

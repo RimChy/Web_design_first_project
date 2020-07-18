@@ -1,0 +1,76 @@
+
+.slide .carousel-caption{
+	font-size:20px;
+	margin-bottom:120px;
+}
+.slide .carousel-caption h1{
+	font-size:50px;
+}
+.about-content i{
+	font-size:50px;
+	
+}
+.getting {
+	background:url(../images/1.JPG); 
+    height:250px;
+	background-size:cover;
+	position:relative;
+	
+    
+}
+.getting-overlay{
+	position:absolute;
+	width:100%;
+	height:100%;
+	background:rgba(0,0,0,.3)
+}
+.heading {
+    background:url(../images/bn.jpg); 
+	height:300px;
+	background-size:cover;
+	background-position:center;
+	
+}
+.heading .col-md-12{
+	margin-top:80px;
+}
+.what-do img{
+	margin-top:-50px;
+}
+.testimonial{
+	height:300px;
+}
+.heading2 {
+	background:url(../images/bn2.jpg);
+	height:300px;
+	background-size:cover;
+	background-position:center;
+}
+.heading2 .col-md-12{
+	margin-top:80px;
+}
+ 
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 50%; /* Rounded corners */
+   /* Increase font size */
+  height:50px;
+  width:50px;
+}
+#myBtn i{
+	font-size:25px;
+	
+}
+
+
+
